@@ -1,2 +1,1 @@
-# Hola soy Maga, bioquimica. Tengo sueño
-## Trabajo de mañana
+# Hola, soy Magalí, QA en desarrollo.
