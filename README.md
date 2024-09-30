@@ -1,5 +1,4 @@
-# Hola soy Maga, bioquimica. Tengo sueño
-## Trabajo de mañana
-"" Technologies 
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+## Tecnologías
+
+- Back-End: Soy experto en Java y tengo un sólido conocimiento del desarrollo del lado del servidor...
+- Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar.
