@@ -7,3 +7,6 @@ Hola! Soy una apasionada QA en desarrollo. Mi recorrido en el mundo de la tecnol
 ## Contáctame
 
 Mientras continúo mi camino en el mundo de sistemas, siempre estoy buscando proyectos y oportunidades colaborativas en las que pueda aportar mis habilidades y crecer tanto personal como profesionalmente. ¡Conectémonos y exploremos cómo podemos crear algo increíble juntos!
+
+## Habilidades
+- Resolución de problemas: como desarrollador, me encanta resolver problemas complejos. Estoy constantemente explorando nuevas tecnologías.
